@@ -1,0 +1,23 @@
+[
+    {
+        "email": "prueba@prueba.com",
+        "clave": "12345",
+        "token": "1232132132131",
+        "nombre": "Juan",
+        "apellido": "Perez"
+    },
+    {
+        "email": "test@test.com",
+        "clave": "123456",
+        "token": "4767657gfhgfhf",
+        "nombre": "Jacinto",
+        "apellido": "Gomez"
+    },
+    {
+        "email": "user@user.com",
+        "clave": "99999",
+        "token": "4767657gfhgfhf",
+        "nombre": "Roberto",
+        "apellido": "Ramirez"
+    }
+]
